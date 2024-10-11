@@ -17,7 +17,7 @@ header {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    background-color: rgba(51, 51, 51, 0.8); /* Semi-transparent background */
+    background-color: rgba(51, 51, 51, 0.8); 
     color: white;
     padding: 10px 20px;
 }
@@ -97,7 +97,7 @@ button:hover {
 
 #message {
     text-align: center;
-    color: green; /* Change color for success messages */
+    color: green; 
 }
 .loginMain{
     margin-left: 700px;
